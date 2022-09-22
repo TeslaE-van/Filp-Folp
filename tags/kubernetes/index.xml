@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>kubernetes on Navendu Pottekkat</title>
+    <link>https://navendu.me/tags/kubernetes/</link>
+    <description>Recent content in kubernetes on Navendu Pottekkat</description>
+    <image>
+      <url>https://navendu.me/images/preview.png</url>
+      <link>https://navendu.me/</link>
+      <title>Navendu Pottekkat</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Sep 2022 09:11:44 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hands-On: Set Up Ingress on Kubernetes With Apache APISIX Ingress Controller</title>
+      <link>https://navendu.me/posts/hands-on-set-up-ingress-on-kubernetes-with-apache-apisix-ingress-controller/</link>
+      <pubDate>Fri, 09 Sep 2022 09:11:44 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/hands-on-set-up-ingress-on-kubernetes-with-apache-apisix-ingress-controller/</guid>
+      <description>A tutorial on using Ingress in your Kubernetes cluster with Apache APISIX.</description>
+    </item>
+    
+  </channel>
+</rss>
